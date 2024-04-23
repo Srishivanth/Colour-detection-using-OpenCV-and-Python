@@ -1,6 +1,6 @@
 import cv2 as cv
 import numpy as np
-from PIL import Image
+from PIL import Image 
 
 webcam = cv.VideoCapture(0)
 
