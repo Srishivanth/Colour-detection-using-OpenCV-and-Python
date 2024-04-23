@@ -1,0 +1,1 @@
+This code was written to demonstrate the Colour detection algorithm using only Python and OpenCV
